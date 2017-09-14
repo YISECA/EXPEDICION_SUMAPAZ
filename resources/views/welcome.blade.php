@@ -9,7 +9,7 @@
   }
 
 section#page1 {
-    background-color: rgba(8, 8, 8, 0.62) !important;
+    background-color: rgba(8, 8, 8, 0.57) !important;
 }
 </style>     
 
@@ -35,62 +35,18 @@ section#page1 {
 
                     </div>
 <br>
-                    <!--<div class="stage">
-
-                        <div id="SLDR-ONE" class="sldr">
-
-                            <ul class="wrp animate">
-
-                                <li class="elmnt-one">                                 
-
-                                       <div class="wrap"><img src="public/Img/bici.jpg"  height="400">
-
-                                        </div>                                   
-                                </li>
-
-                               <li class="elmnt-two">
-                                    
-                                        <div class="wrap"><img src="public/Img/bici1.jpg"  height="400">
-
-                                        </div>                                 
-                                </li>
-
-                                 <li class="elmnt-three">
-                                    
-                                        <div class="wrap"><img src="public/Img/bici2.jpg"  height="400">
-
-                                        </div>                                 
-                                </li>
-                                 
-
-                            </ul>
-
-                        </div>
-
-                        <div class="clear"></div>
-
-                        <ul class="selectors">
-
-                            <li class="focalPoint"><a href="">•</a></li>
-
-                            <li><a href="">•</a></li>
-
-                            <li><a href="">•</a></li>            
-                         
-                        </ul>
-
-                    </div>-->
+                  
 
                     <script src="public/Js/jquery.sldr.js"></script>
 
                     <div class="freebirdFormviewerViewHeaderDescription" dir="auto">
 
-                        <h1 align="center" style="font-family:cursive; color: #58D3F7">ECOTRAVESÍA CERROS ORIENTALES</h1>
+                        <h1 align="center" style="font-family:cursive; color: #58D3F7">EXPEDICIÓN A SUMAPAZ</h1>
                 
                         <br>
                         <h3 style="font-family:cursive; color: #58D3F7" >Descripción del recorrido </h3>
 
-                        <p align="justify"><font size="3" color="#FBEFEF" face="Calibri" style="line-height: 25px;"> La Ecotravesía es una actividad de integración con la naturaleza que promueve el ciclismo de montaña o <i>mountain bike</i> de mediana y alta Complejidad, la cual se realizará en los Cerros Orientales que están conformados por la Reserva Forestal Protectora Bosque Oriental de Bogotá y la Franja de adecuación (zona de amortiguación entre la ciudad de Bogotá y la reserva forestal). Con el fin de contribuir con la apropiación ambiental de los Cerros, promover y fortalecer el uso de la bicicleta, el mejoramiento de su condición física y la preservación de esta reserva.</strong></font></p>
+                        <p align="justify"><font size="3" color="#FBEFEF" face="Calibri" style="line-height: 25px;">Evento social de deporte, salud y medio ambiente, de carácter recreativo no competitivo que tiene como fin apreciar, contemplar y sensibilizar a los participantes a cerca del cuidado de nuestras fuentes hídricas y el cuidado y protección del agua, a través de una visita al Páramo de Sumapaz como la localidad rural del Distrito Capital en un recorrido establecido previamente el cual deja un valor agregado en los habitantes de esta localidad. Recorrido de aproximadamente 39 kilómetros en Bicicleta.</strong></font></p>
 
                    
                       <h3 style="font-family:cursive; color: #58D3F7">Descripción del evento</h3>
@@ -111,7 +67,7 @@ section#page1 {
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">Parque Nacional.</p>
+                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">Salida IDRD al paramo de Sumapaz.</p>
 
                                         </td>
 
@@ -127,7 +83,7 @@ section#page1 {
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">Domingo 24 de Septiembre de 2017.</p>
+                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">Domingo 1 de octubre de 2017.</p>
 
                                         </td>
 
@@ -137,19 +93,19 @@ section#page1 {
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri"><strong>HORA DE ENCUENTRO</strong></p>
+                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri"><strong>HORA</strong></p>
 
                                         </td>
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">5:00 a.m.</p>
+                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">De 5:00 am a 8:00 pm </p>
 
                                         </td>
 
                                     </tr>
 
-                                    <tr valign="top">
+                                    <!--<tr valign="top">
 
                                         <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
@@ -163,7 +119,7 @@ section#page1 {
 
                                         </td>
 
-                                    </tr>
+                                    </tr>-->
 
                                     <tr valign="top">
 
@@ -175,28 +131,11 @@ section#page1 {
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
 
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">1000 Personas.</p>
+                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">350 Personas.</p>
 
                                         </td>
 
                                     </tr>
-
-                                    <tr valign="top">
-
-                                        <td width="281" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
-
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri"><strong>RECORRIDO</strong></p>
-
-                                        </td>
-
-                                        <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.15cm; padding-right: 0.19cm; background-color: #0e0d0d80">
-
-                                            <p style="color: #FBEFEF; font-size: 15px; font-family: calibri">Aproximadamente 39 Kilómetros.</p>
-
-                                        </td>
-
-                                    </tr>
-
 
 
                                     <tr valign="top">

@@ -7,7 +7,7 @@
    background-color: rgba(0, 0, 255, 0) !important;
    }
    section#page1 {
-   background-color: rgba(8, 8, 8, 0.62) !important;
+   background-color: rgba(8, 8, 8, 0.44) !important;
    }
 </style>
 <link rel="stylesheet" type="text/css" href="public/Css/form.css">

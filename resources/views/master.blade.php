@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 
 
-
-
-
-
-
 <html lang="ES">
 
   <head>
@@ -74,19 +69,13 @@
 
           <link rel="stylesheet" href="https://cdn.datatables.net/1.10.4/css/jquery.dataTables.min.css">
 
-          
-
-    
-
         
-
-
 
             @show
 
 
 
-      <title>ECOTRAVESÍA CERROS ORIENTALES</title>
+      <title>EXPEDICIÓN A SUMAPAZ</title>
 
   </head>
 
