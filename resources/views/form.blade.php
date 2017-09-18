@@ -7,14 +7,14 @@
    background-color: rgba(0, 0, 255, 0) !important;
    }
    section#page1 {
-   background-color: rgba(8, 8, 8, 0.44) !important;
+   background-color: rgba(8, 8, 8, 0.35) !important;
    }
 </style>
 <link rel="stylesheet" type="text/css" href="public/Css/form.css">
 <form method="POST" action="insertar" id="form_gen" enctype="multipart/form-data">
    <section id="page1">
    <div class="panel panel-default">
-   <div class="panel-heading">Información Personal</div>
+   <div class="panel-heading">Formulario de Inscripción</div>
    <div class="panel-body">
    <div class="col-md-5">
       <label class="freebirdFormviewerViewItemsItemItemTitle" for="formGroupExampleInput" style="color: #FBF8EF">Todos los campos con<span style="font-size: 20px;text-transform: capitalize;color:#00ade6">&nbsp;*&nbsp;</span>son obligatorios</label>
@@ -101,11 +101,9 @@
          <label class="freebirdFormviewerViewItemsItemItemTitle" for="formGroupExampleInput2" style="color: #FBF8EF"><span style="font-size: 20px;text-transform: capitalize;color:#00ade6">*&nbsp;</span>Talla de camiseta</label>
          <select name="talla" id="talla" class="form-control" >
             <option value="">Seleccione</option>
-            <option value="1">XS</option>
-            <option value="2">S</option>
-            <option value="3">M</option>
-            <option value="4">L</option>
-            <option value="5">XL</option>
+            <option value="1">S</option>
+            <option value="2">M</option>
+            <option value="3">L</option>
          </select>
          <br>
       </div>
@@ -158,10 +156,10 @@
          <div class="freebirdFormviewerViewItemsItemItemheader">
             <div class="freebirdFormviewerViewItemsItemItemTitleContainer">
                <div class="freebirdFormviewerViewItemsItemItemTitle" dir="auto" id="i1" role="heading" aria-level="2" aria-describedby="i.desc.131124881" style="color: #58D3F7;font-size: 20px; font-family: calibri">CONSENTIMIENTO INFORMADO <span class="freebirdFormviewerViewItemsItemRequiredAsterisk" aria-hidden="true" style="font-size: 20px;text-transform: capitalize;color:#00ade6">*</span><br><br><br><br><br><br><br><br><br><br></div>
-               <div class="freebirdFormviewerViewItemsItemItemHelpText" id="i.desc.131124881" dir="auto" align="justify" style="color: #FBF8EF;font-size: 16px; font-family: calibri">Manifiesto que he decidido participar voluntariamente en la actividad ECOTRAVESÍA CERROS ORIENTALES, mediante el uso de una bicicleta Todo Terreno, haciéndolo bajo mi entera responsabilidad, manifestando que me encuentro en perfecto estado físico y de salud. Adicionalmente DECLARO que me dieron las recomendaciones necesarias y que aceptaré cualquier decisión de la organización y del Instituto Distrital de Recreación y Deporte – IDRD, sobre mi participación. <br>
-                  Asumo todos los riesgos asociados con mi recorrido, incluidos pero no limitados, a caídas y demás accidentes, enfermedades generales, enfermedades de tipo cardíaco, por el contacto con otras personas o elementos, las condiciones climáticas incluida temperatura, lluvia y humedad, tránsito vehicular, estado de las vías, y en general cualquier tipo de riesgos que declaro conocidos y valorados por mí. Así mismo declaro que conozco la información general. <br>
-                  Manifiesto que libero a los organizadores, al Instituto Distrital de Recreación y Deporte – IDRD, Alcaldía Mayor de Bogotá, aliados, patrocinadores, representantes y sucesores, de todo reclamo o responsabilidad de cualquier tipo que surja por mi participación en el recorrido, aunque esta responsabilidad pueda surgir por negligencia o culpa de la organización; así como de cualquier extravío, robo y/o hurto. <br>
-                  Por último, autorizo a los organizadores a iniciar las acciones que consideren pertinentes, en caso de que por mi participación genere un hecho que pueda afectar los intereses del Instituto Distrital de Recreación y Deporte – IDRD. Igualmente, autorizo al IDRD para que haga uso de las fotografías, películas, videos, grabaciones y cualquier otro medio de registro de este programa para su uso legítimo, sin reclamación o compensación económica alguna.
+               <div class="freebirdFormviewerViewItemsItemItemHelpText" id="i.desc.131124881" dir="auto" align="justify" style="color: #FBF8EF;font-size: 16px; font-family: calibri">Manifiesto que he decidido participar voluntariamente en el EXPEDICIÓN A SUMAPAZ , mediante el uso de una bicicleta Todo Terreno, haciéndolo bajo mi entera responsabilidad, manifestando que me encuentro en perfecto estado físico y de salud. Adicionalmente DECLARO que me dieron las recomendaciones necesarias y que aceptaré cualquier decisión de la organización y del Instituto Distrital de Recreación y Deporte – IDRD, sobre mi participación. <br>
+               Asumo todos los riesgos asociados con mi recorrido, incluidos pero no limitados, a caídas y demás accidentes, enfermedades generales, enfermedades de tipo cardíaco, por el contacto con otras personas o elementos, las condiciones climáticas incluida temperatura, lluvia y humedad, estado de las vías, y en general cualquier tipo de riesgos que declaro conocidos y valorados por mí. Así mismo declaro que conozco la información general. <br>
+               Manifiesto que libero a los organizadores, al Instituto Distrital de Recreación y Deporte – IDRD, Alcaldía Mayor de Bogotá, aliados, patrocinadores, representantes y sucesores, de todo reclamo o responsabilidad de cualquier tipo que surja por mi participación en el recorrido, aunque esta responsabilidad pueda surgir por negligencia o culpa de la organización; así como de cualquier extravío, robo y/o hurto. <br>
+               Por último, autorizo a los organizadores a iniciar las acciones que consideren pertinentes, en caso de que por mi participación genere un hecho que pueda afectar los intereses del Instituto Distrital de Recreación y Deporte – IDRD. Igualmente, autorizo al IDRD para que haga uso de las fotografías, películas, videos, grabaciones y cualquier otro medio de registro de este programa para su uso legítimo, sin reclamación o compensación económica alguna.
                </div>
             </div>
          </div>
@@ -188,7 +186,7 @@
    <div class="freebirdFormviewerViewNavigationNavControls" jscontroller="lSvzH" jsaction="rcuQ6b:npT2md;JIbuQc:V3upec(GeGHKb),HiUbje(M2UYVd),NPBnCf(OCpkoe)" data-shuffle-seed="-2327421662174229681">
    <div class="freebirdFormviewerViewNavigationButtonsAndProgress">
    <div class="freebirdFormviewerViewNavigationButtons">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="enviar" type="submit" value="Enviar" style="background-color:#00ade6; width: 300px">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="enviar" type="submit" value="Enviar" style="background-color:#00ade6; width: 300px">
    <!--</div><div class="freebirdFormviewerViewNavigationProgress"><div class="freebirdFormviewerViewNavigationProgressIndicator" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" aria-labelledby="lpd4pf" role="progressbar"><div class="freebirdFormviewerViewNavigationProgressIndicatorFill done" style="width:100%"></div></div><div id="lpd4pf" class="quantumWizButtonPaperbuttonContent" aria-hidden="true">Página 1 de 1</div></div></div><div class="freebirdFormviewerViewNavigationPasswordWarning">.</div></div>-->
 </form>
 <script type="text/javascript" src="public/Js/form.js?n=1" ></script>

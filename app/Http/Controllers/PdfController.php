@@ -61,16 +61,16 @@ class PdfController extends BaseController {
       $usuario = Form::where('cedula', $id)->first();   
 
       if (empty($usuario)) { return view('error',['error' => 'No existe este usuario'] ); exit(); }
+/*
+     return view('carnet', ['formulario' => $usuario]);
 
-     /*return view('carnet', ['formulario' => $usuario]);
-
-      exit();*/
-
+      exit();
+*/
       $view =  view('carnet', ['formulario' => $usuario])->render();
 
       $pdf = PDF::loadHTML($view);
 
-      return $pdf->setPaper('a5', 'portrait')->stream('Ecotravesía '.date('l jS \of F Y h:i:s A'));     
+      return $pdf->setPaper('a5','portrait')->stream('Expedición a Sumapaz '.date('l jS \of F Y h:i:s A'));     
 
     }
 

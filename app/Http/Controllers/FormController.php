@@ -123,7 +123,7 @@ class FormController extends BaseController
 
       //envio de correo
 
-     if($this->inscritos()<=1100)
+     if($this->inscritos()<=350)
 
      {
 
@@ -133,14 +133,14 @@ class FormController extends BaseController
         
         Mail::send('email', ['user' => $request->input('mail'),'formulario' => $formulario], function ($m) use ($request) 
         {
-            $m->from('no-reply@idrd.gov.co', 'Registro Exitoso a la Ecotravesía Cerros Orientales');
-            $m->to($request->input('mail'), $request->input('primer_nombre'))->subject('Registro Exitoso a la Ecotravesía cerros orientales!');
+            $m->from('no-reply@idrd.gov.co', 'Registro Exitoso a la Expedición a Sumapaz');
+            $m->to($request->input('mail'), $request->input('primer_nombre'))->subject('Registro Exitoso a la Expedición a Sumapaz!');
         });
 
       }else{
         return view('error', ['error' => 'Lo sentimos el limite de inscritos fue superado!']);
       }
-        return view('error', ['error' =>'  BIENVENIDO, YA HACES PARTE DE LA ECOTRAVESÍA CERROS ORIENTALES 2017, verifica los datos registrados en tu correo electrónico o descarga tu comprobante de inscripción en el menú "Descargar inscripción" que se encuentra en la parte superior.']);
+        return view('error', ['error' =>'  BIENVENIDO, YA HACES PARTE DE LA EXPEDICIÓN A SUMAPAZ 2017, verifica los datos registrados en tu correo electrónico o descarga tu comprobante de inscripción en el menú "Descargar inscripción" que se encuentra en la parte superior.']);
     }
 
  // conteo de la tabla

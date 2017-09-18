@@ -7,11 +7,11 @@
   <td height="302">
     <center>
       <p style="font-family: times, serif; font-size:14pt; font-style:italic">{{$formulario->primer_nombre}}&nbsp;{{$formulario->segundo_nombre}}&nbsp;{{$formulario->primer_apellido}}&nbsp;{{$formulario->segundo_apellido}} </p>
-      <p align="center"><strong>BIENVENIDO,   YA HACES PARTE DE LA ECOTRAVESÍA CERROS ORIENTALES 2017</strong></p>
+      <p align="center"><strong>BIENVENIDO, YA HACES PARTE DE LA EXPEDICIÓN A SUMAPAZ 2017</strong></p>
       <p>Este correo será tu comprobante de inscripción, el cual deberás entregar  impreso  o descargarlo en tu celular para verificar los datos el día del evento</p>
-<p>Fecha: Domingo 24 de Septiembre de 2017</p>
-<p>Hora: 06:00 am</p>
-<p>Lugar:  Parque Nacional </p>
+<p>Fecha: Domingo 1 de octubre de 2017</p>
+<p>Hora:  De 5:00 am a 8:00 pm</p>
+<p>Lugar: Salida IDRD al paramo de Sumapaz</p>
 
 <table width="558" height="146" border="1"  cellspacing="2" bordercolor="#000000">
         <tr>
